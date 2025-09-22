@@ -1,4 +1,4 @@
-# Quantum Artificial Intelligence with Qiskit (2.X)
+# Quantum Artificial Intelligence with Qiskit (2.x)
 
 This project aims at teaching you the fundamentals of Quantum Artificial Intelligence with Qiskit. It contains the example code of my  CRC Press/Taylor & Francis book, Quantum Artificial Intelligence, Andreas Wichert, 2024 
 
