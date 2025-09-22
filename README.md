@@ -1,4 +1,4 @@
-# Quantum Artificial Intelligence with Qiskit (2.0)
+# Quantum Artificial Intelligence with Qiskit (2.X)
 
 This project aims at teaching you the fundamentals of Quantum Artificial Intelligence with Qiskit. It contains the example code of my  CRC Press/Taylor & Francis book, Quantum Artificial Intelligence, Andreas Wichert, 2024 
 
@@ -15,7 +15,7 @@ You can find installation instruction for qiskit at the site:
 For version qiskit 2.x also install adittionaly in your environment: pip install qiskit-aer and
 pip install qiskit-machine-learning and pip install qiskit-ibm-provider
 
-Check this repository for the newest port of qiskit version which is now version 2.0 
+Check this repository for the newest port of qiskit version which is now version 2.2 
 You can uppgrade your qiskit 2.x version pip install -U qiskit.
 
 
