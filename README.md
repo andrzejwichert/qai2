@@ -15,7 +15,7 @@ You can find installation instruction for qiskit at the site:
 For version qiskit 2.x also install adittionaly in your environment: pip install qiskit-aer and
 pip install qiskit-machine-learning and pip install qiskit-ibm-provider
 
-Check this repository for the newest port of qiskit version which is now version 2.2 
+Check this repository for the newest port of qiskit version which is now version 2.3 
 You can uppgrade your qiskit 2.x version pip install -U qiskit.
 
 
